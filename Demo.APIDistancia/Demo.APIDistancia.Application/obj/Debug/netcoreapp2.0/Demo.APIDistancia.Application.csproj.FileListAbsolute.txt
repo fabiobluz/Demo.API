@@ -1,0 +1,12 @@
+C:\Users\fabio\source\repos\Demo.APIDistancia\Demo.APIDistancia.Application\bin\Debug\netcoreapp2.0\Demo.APIDistancia.Application.deps.json
+C:\Users\fabio\source\repos\Demo.APIDistancia\Demo.APIDistancia.Application\bin\Debug\netcoreapp2.0\Demo.APIDistancia.Application.dll
+C:\Users\fabio\source\repos\Demo.APIDistancia\Demo.APIDistancia.Application\bin\Debug\netcoreapp2.0\Demo.APIDistancia.Application.pdb
+C:\Users\fabio\source\repos\Demo.APIDistancia\Demo.APIDistancia.Application\bin\Debug\netcoreapp2.0\Demo.APIDistancia.Domain.dll
+C:\Users\fabio\source\repos\Demo.APIDistancia\Demo.APIDistancia.Application\bin\Debug\netcoreapp2.0\Demo.APIDistancia.Domain.pdb
+C:\Users\fabio\source\repos\Demo.APIDistancia\Demo.APIDistancia.Application\obj\Debug\netcoreapp2.0\Demo.APIDistancia.Application.csprojAssemblyReference.cache
+C:\Users\fabio\source\repos\Demo.APIDistancia\Demo.APIDistancia.Application\obj\Debug\netcoreapp2.0\Demo.APIDistancia.Application.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\Demo.APIDistancia\Demo.APIDistancia.Application\obj\Debug\netcoreapp2.0\Demo.APIDistancia.Application.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\Demo.APIDistancia\Demo.APIDistancia.Application\obj\Debug\netcoreapp2.0\Demo.APIDistancia.Application.AssemblyInfo.cs
+C:\Users\fabio\source\repos\Demo.APIDistancia\Demo.APIDistancia.Application\obj\Debug\netcoreapp2.0\Demo.APIDistancia.Application.csproj.CopyComplete
+C:\Users\fabio\source\repos\Demo.APIDistancia\Demo.APIDistancia.Application\obj\Debug\netcoreapp2.0\Demo.APIDistancia.Application.dll
+C:\Users\fabio\source\repos\Demo.APIDistancia\Demo.APIDistancia.Application\obj\Debug\netcoreapp2.0\Demo.APIDistancia.Application.pdb
